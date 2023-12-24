@@ -12,7 +12,7 @@ The model is built using historical air quality data sourced from [Open Africa](
 - **Temporal Analysis of Pollution Trends**: The model aids in dissecting pollution trends over time, enabling a deeper understanding of temporal dynamics.
 
 ### Application
-- **Proactive Measures**: The insights provided by the model empowerS government and stakeholders to take proactive steps in pollution control.
+- **Proactive Measures**: The insights provided by the model empowers government and stakeholders to take proactive steps in pollution control.
 - **Strategy Development**: It serves as a key tool in developing effective strategies to improve air quality.
 - **Enhancing Health and Well-being**: Ultimately, the model contributes to efforts aimed at enhancing the health and well-being of residents in Lagos.
 
