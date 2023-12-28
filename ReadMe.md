@@ -20,4 +20,4 @@ The model is built using historical air quality data sourced from [Open Africa](
 - `model/`: Contains the time series forecasting model and associated scripts.
 - `data/`: Directory with the dataset used for model training and testing.
 - `docs/`: Documentation on model methodology, usage, and results.
-- `notebooks/`: Jupyter notebooks illustrating the model development process and analyses.
+- `notebooks/`: Jupyter notebooks illustrating the model development process illustrating the query and analyses done for proper data understanding.
